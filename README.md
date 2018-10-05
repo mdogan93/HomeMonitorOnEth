@@ -86,4 +86,5 @@
 	echo -ne '\n' | swarm --bzzaccount $BZZKEY --datadir "." --ens-api "./geth.ipc" --bzznetworkid 666 &
 
 
-
+# ACKNOWLEDGEMENT
+This project has been supported by Scientific Research Fund of Bogazici University under grant no: 13500
